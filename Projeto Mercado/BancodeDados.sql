@@ -1,0 +1,1 @@
+INSERT INTO Valor_Produtos_e_Taxas (id,valor,taxa) VALUES (12,150.0,0.30);
